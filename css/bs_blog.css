@@ -332,6 +332,11 @@ h2 {
   margin-right: 30px;
 }
 
+#first-paragraph {
+  clear: left;
+  padding-top: 20px;
+}
+
 /*
  * Footer
  */
@@ -353,6 +358,12 @@ h2 {
 
 .center {
   text-align: center;
+}
+
+.sticky-footer {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
 }
 
 /*
