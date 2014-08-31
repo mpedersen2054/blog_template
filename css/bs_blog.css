@@ -224,6 +224,20 @@ h2 {
   margin-bottom: 0;
 }
 
+/* Blog Post Page */
+
+#share-buttons img {
+  width: 42px;
+  border: 0;
+  box-shadow: 0;
+  display: inline;
+  vertical-align: top;
+}
+
+#share-buttons p {
+  font-size: 32px;
+  font-weight: 700;
+}
 
 
 /* Pagination */
@@ -251,7 +265,7 @@ h2 {
 
 .blog-post-title {
   margin-bottom: 12px;
-  font-size: 36px;
+  font-size: 28px;
   font-weight: 600;
   font-family: "Lato" ,"Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: capitalize;
