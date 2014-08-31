@@ -338,11 +338,22 @@ h2 {
 }
 
 /*
+ * Portfolio Page
+ */
+
+.example {
+  background-color: #eee;
+  float: left;
+  width: 33.33333%;
+  border: 1px solid;
+}
+
+/*
  * Footer
  */
 
 .blog-footer {
-  padding: 40px 0;
+  padding: 15px 0;
   color: #999;
   text-align: center;
   background-color: #f9f9f9;
@@ -358,6 +369,10 @@ h2 {
 
 .center {
   text-align: center;
+}
+
+.clear {
+  clear: both;
 }
 
 .sticky-footer {
