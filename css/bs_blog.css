@@ -316,6 +316,21 @@ h2 {
   padding-right: 10px;
 }
 
+/*
+ * About Page
+ */
+
+#about h1 {
+  color: #e74c3c;
+  font-family: 'Open Sans';
+  font-weight: 300;
+}
+
+#about img {
+  border-radius: 100px;
+  float: left;
+  margin-right: 30px;
+}
 
 /*
  * Footer
