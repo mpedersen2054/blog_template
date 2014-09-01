@@ -317,6 +317,33 @@ h2 {
 }
 
 /*
+ * Home Page
+ */
+
+#home-top {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: url(../images/background.jpg) repeat;
+}
+
+#home-top h1 {
+  font-weight: 500px;
+}
+
+#home-top .btn {
+  font-size: 25px;
+}
+
+#home-top input.form-control {
+  font-size: 25px;
+  height: 50px;
+}
+
+#first-paragraph-home {
+  padding-top: 50px;
+}
+
+/*
  * About Page
  */
 
@@ -327,7 +354,7 @@ h2 {
   font-weight: 300;
 }
 
-#about img, #home img {
+#about img, #home-top img {
   border-radius: 100px;
   -moz-border-radius: 100px;
   -webkit-border-radius: 100px;
